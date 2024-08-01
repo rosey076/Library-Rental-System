@@ -1,11 +1,11 @@
 # Library-Rental-System
-Library Rental System Project Instruction📙
+Library Rental System Project Instruction 📙
 
-### Overview
+### Overview 📖
 
 The Library Rental System is a console-based application that allows users to manage book rentals in a library. The system supports three types of books (Children's Books, Computer Books, Novels) and two groups of people (Teachers and Students).
 
-### Input Files
+### Input Files 📁
 
 Before running the program, you need to prepare two input files: `books.txt` and `persons.txt`.
 
@@ -42,7 +42,7 @@ Before running the program, you need to prepare two input files: `books.txt` and
    101 Bob 2 1001 2001
    ```
 
-### Running the Program
+### Running the Program ⌛️
 
 1. **Provide Input File Names:**
    When prompted, enter the names of the input files:
@@ -51,7 +51,7 @@ Before running the program, you need to prepare two input files: `books.txt` and
    Enter Person filename : persons.txt
    ```
 
-### Using the Menu
+### Using the Menu ⌥
 
 The program provides a menu with several options:
 
@@ -132,14 +132,14 @@ Rented books:
 * Harry Potter(1001) - age 8
 ```
 
-### Error Handling
+### Error Handling ✅
 
 The program includes error handling for various scenarios:
 - If a person or book is not found.
 - If a person has already rented the maximum allowed books.
 - If a book is not available for rent.
 
-### Conclusion
+### Thank you for reading and exploring!
 
 This Library Rental System allows users to manage book rentals efficiently. By following the instructions above, you can easily set up and use the system. Feel free to explore all the features and enjoy managing your library rentals!
 
