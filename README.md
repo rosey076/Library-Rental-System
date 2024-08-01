@@ -139,7 +139,7 @@ The program includes error handling for various scenarios:
 - If a person has already rented the maximum allowed books.
 - If a book is not available for rent.
 
-### Thank you for reading and exploring!
+### Thank you for reading and exploring!😀
 
 This Library Rental System allows users to manage book rentals efficiently. By following the instructions above, you can easily set up and use the system. Feel free to explore all the features and enjoy managing your library rentals!
 
